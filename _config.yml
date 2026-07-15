@@ -1,0 +1,10 @@
+title: Jairo Navarrete
+description: IT Operations and Cybersecurity Portfolio
+theme: haccker
+markdown: kramdown
+plugins:
+  - jekyll-feed
+header_pages:
+  - about.md
+  - projects.md
+  - resume.md
