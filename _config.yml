@@ -1,9 +1,12 @@
 title: Jairo Navarrete
 description: IT Operations and Cybersecurity Portfolio
-theme: hacker
+remote_theme: pages-themes/hacker@v0.2.0
 markdown: kramdown
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
 header_pages:
   - about.md
   - projects.md
