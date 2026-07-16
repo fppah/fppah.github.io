@@ -8,5 +8,5 @@ date: 2026-07-15
 
 This post is where I’ll document lessons learned from hands-on labs, enumeration steps, and key security concepts I want to remember.
 
-## Topics I want to cover
+## Rooms
 - Incident Response lifecycle
