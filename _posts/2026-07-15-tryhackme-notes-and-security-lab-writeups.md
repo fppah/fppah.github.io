@@ -1,9 +1,12 @@
 ---
 layout: default
-title: "TryHackMe notes and security lab writeups"
+title: "TryHackMe Notes and Security Lab Writeups"
 date: 2026-07-15
 ---
 
-# TryHackMe notes and security lab writeups
+# TryHackMe Notes and Security Lab Writeups
 
-This is my first GitHub Pages post. I’ll use this section to document labs, troubleshooting notes, and cybersecurity projects.
+This post is where I’ll document lessons learned from hands-on labs, enumeration steps, and key security concepts I want to remember.
+
+## Topics I want to cover
+- Incident Response lifecycle
