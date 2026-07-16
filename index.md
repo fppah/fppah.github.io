@@ -10,9 +10,8 @@ IT operations professional building toward cybersecurity, system administration,
 ## Featured work
 
 - [Graylog home lab setup and log analysis](projects)
-- [PowerShell automation for printer and network tasks](projects)
 - [TryHackMe notes and security lab writeups](_posts/2026-07-15-tryhackme-notes-and-security-lab-writeups.md)
-- [Incident response and MITRE ATT&CK study notes](projects)
+
 
 ## Explore
 
