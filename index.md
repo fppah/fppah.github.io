@@ -9,7 +9,7 @@ IT operations professional building toward cybersecurity, system administration,
 
 ## Featured work
 
-- [Graylog home lab setup and log analysis](projects)
+- [Graylog home lab setup and log analysis](_posts/2026-07-15-graylog-open-setup.md)
 - [TryHackMe notes and security lab writeups](_posts/2026-07-15-tryhackme-notes-and-security-lab-writeups.md)
 
 
