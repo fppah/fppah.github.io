@@ -1,5 +1,6 @@
 
-# Preparation
+# Preparation <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/a9460242-ed60-4f63-ad78-b3666fd4bfae" />
+
 Learning Objectives
 - Understand the purpose and importance of the Preparation phase in incident response
 - Identify the key components of an IR capability, including people, processes, and technology
