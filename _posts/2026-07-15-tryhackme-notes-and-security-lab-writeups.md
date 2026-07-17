@@ -10,4 +10,4 @@ This post is where I’ll document lessons learned from hands-on labs, enumerati
 
 ## Rooms
 - Incident Response lifecycle
--- Preparation
+  - Preparation
