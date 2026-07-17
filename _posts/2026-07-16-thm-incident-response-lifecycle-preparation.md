@@ -1,4 +1,5 @@
 
+# Preparation
 Learning Objectives
 - Understand the purpose and importance of the Preparation phase in incident response
 - Identify the key components of an IR capability, including people, processes, and technology
