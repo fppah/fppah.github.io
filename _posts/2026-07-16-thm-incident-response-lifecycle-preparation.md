@@ -1,5 +1,5 @@
 
-# Preparation <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/a9460242-ed60-4f63-ad78-b3666fd4bfae" />
+# Preparation <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a9460242-ed60-4f63-ad78-b3666fd4bfae" />
 
 Learning Objectives
 - Understand the purpose and importance of the Preparation phase in incident response
