@@ -16,3 +16,5 @@ Learning Objectives
 | 2 - Detection and Analysis | Detect the incident and analyze it in Splunk.  |
 | 3 - Response and Recovery | Make containment decisions, confirm the attacker is gone, and identify root causes. |
 | 4 - Post-Incident Activity | Reconstruct the timeline of the attack and revisit what went wrong. |
+
+<img width="600" height="258" alt="image" src="https://github.com/user-attachments/assets/e4294cd3-0003-45cf-a137-3a3bc96821d3" />
